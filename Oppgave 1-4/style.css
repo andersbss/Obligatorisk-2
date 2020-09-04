@@ -224,7 +224,7 @@ main{
 }
 
 #completedTodosTable tr td:nth-last-of-type(1){
-    padding-right: 5%;
+    padding-right: 3%;
 }
 
 /* || Todo popup*/
