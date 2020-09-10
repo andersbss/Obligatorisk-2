@@ -1,3 +1,5 @@
+import './styles.scss'
+
 const todosWrapper = document.getElementById('todoList');
 const completedTodosWrapper = document.getElementById('completedTodosTable');
 const completedTodos = [];
