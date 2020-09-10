@@ -1,4 +1,4 @@
-import './styles.scss'
+import './styles.scss';
 
 const todosWrapper = document.getElementById('todoList');
 const completedTodosWrapper = document.getElementById('completedTodosTable');
